@@ -1,2 +1,2 @@
 # Stock_Market_Prediciton_using_Numerical_and_Textual_Analysis
- 
+ This project is a part of The Sparks Foundation Data Science and Business Analytics Internship, in which Stock Market price is predicted using numerical and textual Analysis. The historical stock prices dataset for this project has been extracted from https://finance.yahoo.com/ and the news headlines data is used from https://bit.ly/36fFPI6.
